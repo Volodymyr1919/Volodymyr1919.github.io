@@ -1,0 +1,13 @@
+nav{
+    .nav{
+        width: 300px;
+        display: flex;
+        justify-content: space-between;
+        li{
+            .nav-link{
+                display: flex;
+                justify-content: center;
+            }
+        }
+    }
+}
